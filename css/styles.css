@@ -47,6 +47,10 @@ body {
     color: #EAF6F6;
   }
   
+   audio {
+     width: 150px;
+   }
+
   .top-container {
     background-color: #E4F9F5;
     position: relative;
